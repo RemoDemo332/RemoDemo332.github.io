@@ -1,0 +1,15 @@
+.columnContainer {
+  width: 99vw;
+  height: 100vh;
+  margin-top: 0px;
+  background-color: #f8f8ff;
+}
+
+#colHeader {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+#individualCol {
+  height: 100vh;
+}
