@@ -1,5 +1,5 @@
 ## Project Description
 
-* [live example](https://learning-zone.github.io/website-templates/portfolio-item)
+Laying out our senior project website.
 
-![alt text](https://github.com/learning-zone/website-templates/blob/master/assets/portfolio-item.png "portfolio-item")
+Live link: https://remodemo332.github.io
